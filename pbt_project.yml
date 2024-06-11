@@ -109,6 +109,7 @@ functions:
   udafs: {}
   expressions: {}
   airflowFunctions: {}
+  businessRules: {}
 subgraphs:
   subgraphs/dq_audit:
     name: dq_audit
@@ -120,6 +121,7 @@ subgraphs:
     createdAt: '2024-02-28 15:35:12'
 sqlModels: {}
 sqlSnapshots: {}
+sqlTests: {}
 sqlMacros: {}
 sqlSeeds: {}
 sqlSources: {}
