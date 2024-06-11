@@ -131,32 +131,36 @@ dependencies:
 - type: plibMaven
   modifiedAt: '2024-05-03T16:22:39.33938Z'
   name: plibMaven
-  version: 7.1.93
+  version: 8.0.5
   id: '1766302595'
   createdAt: '2024-05-03T16:22:39.339282Z'
+  enabled: true
+  entity: Project
 - type: plibPypi
   modifiedAt: '2024-05-03T16:22:39.339487Z'
   name: plibPypi
-  version: 1.8.15
+  version: 1.9.4
   id: '816884476'
   createdAt: '2024-05-03T16:22:39.339452Z'
+  enabled: true
+  entity: Project
 projectDependencies:
   '12654':
     projectUID: 12654
     projectName: ProphecySparkBasicsPython
     repositoryPath: gitUri=http://gitserver:3000/DxEheDCJ_team_5751/DxEheDCJ_project_12654.git&subPath=
-    version: 0.2.12
+    version: 0.2.25
     isDefault: true
     author: null
-    createdAt: '2024-05-15 18:17:30'
+    createdAt: '2024-06-11 21:30:27'
   '12655':
     projectUID: 12655
     projectName: ProphecyWarehousePython
     repositoryPath: gitUri=http://gitserver:3000/DxEheDCJ_team_5751/DxEheDCJ_project_12655.git&subPath=
-    version: 0.0.5
+    version: 0.0.8
     isDefault: true
     author: null
-    createdAt: '2024-05-03 16:22:18'
+    createdAt: '2024-06-11 21:31:30'
 flags:
   shouldAddDefaultDependenciesIfAbsent: true
 pipelineConfigurations: {}
