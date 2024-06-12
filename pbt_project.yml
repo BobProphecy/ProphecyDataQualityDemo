@@ -71,7 +71,7 @@ gemContainer:
       category: Transform
       subCategory: ''
       description: null
-      author: maciej+demo7@prophecy.io
+      author: bobw@prophecy.io
       mode: batch
       files:
       - maciejdemos_dataquality/gems/Deequ.py
@@ -89,8 +89,8 @@ gemContainer:
         addToPipeline: true
         editable: true
       - type: coordinates
-        modifiedAt: '2024-02-28T05:11:37.911Z'
-        coordinates: com.amazon.deequ:deequ:2.0.1-spark-3.2
+        modifiedAt: '2024-06-12T19:25:58.849Z'
+        coordinates: com.amazon.deequ:deequ:2.0.7-spark-3.3
         name: mvn_deequ
         description: ''
         enabled: true
@@ -131,7 +131,7 @@ dependencies:
 - type: plibMaven
   modifiedAt: '2024-05-03T16:22:39.33938Z'
   name: plibMaven
-  version: 8.0.5
+  version: 8.0.11
   id: '1766302595'
   createdAt: '2024-05-03T16:22:39.339282Z'
   enabled: true
@@ -139,7 +139,7 @@ dependencies:
 - type: plibPypi
   modifiedAt: '2024-05-03T16:22:39.339487Z'
   name: plibPypi
-  version: 1.9.4
+  version: 1.9.5
   id: '816884476'
   createdAt: '2024-05-03T16:22:39.339452Z'
   enabled: true

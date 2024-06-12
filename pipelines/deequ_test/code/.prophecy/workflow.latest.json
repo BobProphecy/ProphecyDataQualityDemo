@@ -6,14 +6,14 @@
     "codeGenConfiguration" : {
       "editableConfig" : true,
       "plibVersion" : {
-        "mavenVersion" : "8.0.5",
-        "pyPiVersion" : "1.9.4"
+        "mavenVersion" : "8.0.11",
+        "pyPiVersion" : "1.9.5"
       }
     },
     "id" : "1",
     "uri" : "pipelines/deequ_test",
     "language" : "python",
-    "fabricId" : "9769",
+    "fabricId" : "9631",
     "frontEndLanguage" : "sql",
     "mode" : "batch",
     "udfs" : {
@@ -74,8 +74,8 @@
     "buildSystem" : "maven",
     "externalDependencies" : [ {
       "type" : "coordinates",
-      "modifiedAt" : "2024-02-28T05:11:37.911Z",
-      "coordinates" : "com.amazon.deequ:deequ:2.0.1-spark-3.2",
+      "modifiedAt" : "2024-06-12T19:25:58.849Z",
+      "coordinates" : "com.amazon.deequ:deequ:2.0.7-spark-3.3",
       "name" : "mvn_deequ",
       "description" : "",
       "enabled" : true,
