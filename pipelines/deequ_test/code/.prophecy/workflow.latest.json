@@ -3,11 +3,12 @@
     "migrationVersions" : {
       "gemBuilderVersion" : "v1"
     },
+    "functions" : { },
     "codeGenConfiguration" : {
       "editableConfig" : true,
       "plibVersion" : {
-        "mavenVersion" : "8.0.11",
-        "pyPiVersion" : "1.9.5"
+        "mavenVersion" : "8.0.11-1",
+        "pyPiVersion" : "1.9.7"
       }
     },
     "id" : "1",
